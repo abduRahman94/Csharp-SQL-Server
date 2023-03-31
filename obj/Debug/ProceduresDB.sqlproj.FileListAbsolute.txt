@@ -1,0 +1,11 @@
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\bin\Debug\ProceduresDB.dacpac
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\bin\Debug\ProceduresDB.dll
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\bin\Debug\ProceduresDB.pdb
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\bin\Debug\AdventureWorksLT2012.dacpac
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\obj\Debug\ProceduresDB.sqlproj.CopyComplete
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\obj\Debug\ProceduresDB.dll
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\obj\Debug\ProceduresDB.pdb
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\obj\Debug\Model.xml
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\obj\Debug\refactor.xml
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\obj\Debug\postdeploy.sql
+C:\Users\GSIE TECHNOLOGIE\source\repos\ProceduresDB\obj\Debug\predeploy.sql
